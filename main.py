@@ -1,3 +1,5 @@
+from canchas import reservar_cancha, listar_reservas
+from socios import registrar_socio, listar_socios
 canchas = ["Cancha 1", "Cancha 2", "Cancha 3"]
 
 def mostrar_menu():
